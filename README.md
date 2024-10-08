@@ -1,6 +1,5 @@
 
-ChatGPT said:
-ChatGPT
+
 Flask Superheroes API Challenge
 In this challenge, you'll develop an API for tracking superheroes and their powers.
 
